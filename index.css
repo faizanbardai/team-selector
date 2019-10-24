@@ -1,0 +1,12 @@
+.h50 {
+    height:250px !important;
+}
+
+.delete-button {
+    height: 20px;
+    width: 20px;
+    border-radius: 50%;
+    border: 1px solid red;
+    font-size: 10px;
+    float: right;
+}
